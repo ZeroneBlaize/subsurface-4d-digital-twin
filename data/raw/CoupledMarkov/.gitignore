@@ -1,0 +1,14 @@
+# MATLAB temporary files
+*.asv
+*.m~
+*.mat
+
+# Python/cache artifacts
+__pycache__/
+*.pyc
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

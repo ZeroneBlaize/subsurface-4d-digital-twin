@@ -1,0 +1,24 @@
+# Dependencies and external tools
+tools/
+.agents/
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+
+# LaTeX temporary files
+paper/*.aux
+paper/*.log
+paper/*.out
+paper/*.blg
+
+# Large output caches
+outputs/
+*.tif
+*.vti
+*.parquet
+*.duckdb*
+*.sqlite*
+
+# Keep paper figures
+!paper/figures/*.png

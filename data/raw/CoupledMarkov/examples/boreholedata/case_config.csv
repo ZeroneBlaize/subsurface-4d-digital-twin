@@ -1,0 +1,15 @@
+parameter,value
+case_name,boreholedata
+num_soil_types,4
+dx_m,0.5
+dz_m,0.5
+num_cols,86
+num_rows,68
+grid_refinement,2
+num_simulations,10
+random_seed,1
+k_values,12.4 12.4 12.4 12.4
+x_min_m,0
+x_max_m,43
+depth_min_m,15
+depth_max_m,49
