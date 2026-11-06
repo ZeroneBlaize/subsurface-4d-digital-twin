@@ -1,9 +1,8 @@
 # 4D Cyber-Physical Subsurface Digital Twin & Safe Bearing Capacity Engine
 
-**Lead Investigator:** **Sahil Deshpande**  
-*School of Earth, Ocean & Climate Sciences / School of Infrastructure*  
-*Indian Institute of Technology (IIT) Bhubaneswar, Odisha 752050, India*  
-*Email: sahildeshpande1098@gmail.com | 25cl06008@iitbbs.ac.in*
+**Author:** **Sahil Deshpande**  
+*M.Tech,Indian Institute of Technology (IIT) Bhubaneswar, Odisha 752050, India*  
+*Email: sahildeshpande1098@gmail.com*
 
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.42.0-FF4B4B.svg)](http://localhost:8501)
 [![DuckDB](https://img.shields.io/badge/DuckDB-2.0.0-FFF000.svg)](https://duckdb.org)
