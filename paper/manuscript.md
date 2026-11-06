@@ -1,7 +1,7 @@
 # Reconciling 1D Borehole Drilling Logs with High-Resolution Digital Elevation Models: A 4D Cyber-Physical Subsurface Digital Twin and Automated Safe Bearing Capacity Engine for the Indian Landmass
 **Sahil Deshpande**  
-*School of Earth, Ocean and Climate Sciences & School of Infrastructure, Indian Institute of Technology (IIT) Bhubaneswar, Odisha 752050, India*  
-*Email: sahildeshpande1098@gmail.com | 25cl06008@iitbbs.ac.in*  
+*Geotechnical & Computational Engineering Researcher*  
+*Email: sahildeshpande1098@gmail.com*  
 
 ---
 

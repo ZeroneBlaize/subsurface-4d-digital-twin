@@ -1,7 +1,7 @@
 # 4D Cyber-Physical Subsurface Digital Twin & Safe Bearing Capacity Engine
 
 **Author:** **Sahil Deshpande**  
-*M.Tech,Indian Institute of Technology (IIT) Bhubaneswar, Odisha 752050, India*  
+*M.Tech, Indian Institute of Technology (IIT) Bhubaneswar, Odisha 752050, India*  
 *Email: sahildeshpande1098@gmail.com*
 
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.42.0-FF4B4B.svg)](http://localhost:8501)
@@ -131,5 +131,5 @@ Executes all 60 unit, integration, and mathematical boundary verification tests 
 
 ## ⚖️ License & Acknowledgments
 
-Developed by **Sahil Deshpande** at the **Indian Institute of Technology (IIT) Bhubaneswar**.  
+Developed by **Sahil Deshpande** (Geotechnical & Computational Engineering).  
 Open-source under the Apache-2.0 License. Geotechnical standards conform to BIS (IS:6403-1981, IS:2131-1981, IS:1498-1970). Open borehole data acknowledged from IIEST Shibpur, IISc Bangalore, Mendeley Data, and TNO DINOloket.

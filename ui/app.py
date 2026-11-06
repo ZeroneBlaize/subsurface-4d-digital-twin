@@ -37,7 +37,7 @@ import streamlit.components.v1 as components
 
 
 st.set_page_config(
-    page_title="Subsurface 4D · Geotechnical Digital Twin (IIT BBS)",
+    page_title="Subsurface 4D · Geotechnical Digital Twin",
     page_icon="🏗️",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -157,7 +157,7 @@ code, pre, .stCodeBlock {
     <div class="custom-author-strip">
         <span class="author-pill">Lead Investigator: Sahil Deshpande</span>
         <span>·</span>
-        <span>IIT Bhubaneswar (25CL06008)</span>
+        <span>Geotechnical & Computational Engineering</span>
         <span>·</span>
         <span style="color: #34d399;">Computers & Geotechnics Target</span>
     </div>

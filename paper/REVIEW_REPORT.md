@@ -2,7 +2,7 @@
 
 **Target Venues:** *Computers and Geotechnics* (Elsevier) / *Indian Geotechnical Journal* (Springer)  
 **Manuscript Title:** Reconciling 1D Borehole Drilling Logs with High-Resolution Digital Elevation Models: A 4D Cyber-Physical Subsurface Digital Twin and Automated Safe Bearing Capacity Engine for the Indian Landmass  
-**Authors:** Sahil Deshpande, School of Earth, Ocean and Climate Sciences & School of Infrastructure, Indian Institute of Technology (IIT) Bhubaneswar  
+**Authors:** Sahil Deshpande, Geotechnical & Computational Engineering Researcher  
 **Review Date:** November 6, 2026  
 **Review Standard:** Academic Pipeline v3.24.2 / Academic Paper Reviewer Protocol (5-Seat Role-Separated Review Panel + Editorial Synthesis)
 
